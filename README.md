@@ -47,7 +47,7 @@ The following dependencies should be installed using Cydia:
 * Cydia Substrate
 * PreferenceLoader
 
-Then, download the latest pre-compiled package available in the release tab of 
+Then, download the latest [pre-compiled package available in the release tab](https://github.com/upbit/ssl-kill-switch2/raw/package/com.nablac0d3.SSLKillSwitch2_0.10-1_iphoneos-arm.deb) of 
 the SSL Kill Switch 2's GitHub page. Copy it to the device, install it and 
 respring the device:
 
